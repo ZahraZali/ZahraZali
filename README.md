@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="your_banner.png" alt="Zahra Zali - Machine Learning for Seismology" width="1000"/>
+  <img src="https://via.placeholder.com/1000x200.png?text=Zahra+Zali+-+Machine+Learning+for+Seismology" alt="Zahra Zali - Machine Learning for Seismology" width="1000"/>
 </p>
 
 # 🎓 Postdoctoral Researcher in Geophysics  
