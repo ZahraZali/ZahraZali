@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200.png?text=Zahra+Zali+-+Machine+Learning+for+Seismology" alt="Zahra Zali - Machine Learning for Seismology" width="1000"/>
+  <img src="https://img.shields.io/badge/Field-Geophysics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20for%20Seismology-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Topics-Earthquakes%20|%20Volcanoes-orange?style=for-the-badge"/>
 </p>
 
 # 🎓 Postdoctoral Researcher in Geophysics  
