@@ -6,7 +6,7 @@
 
 ## 🔬 About Me  
 - I develop **signal processing and machine learning algorithms** for time series data such as seismic and strainmeter records.  
-- My research focuses on **earthquake and volcanic preparatory processes**, with particular emphasis on **tremor signals** and **Slow Slip Events (SSEs)**.  
+- My research focuses on **earthquake and volcanic preparatory processes**, with particular emphasis on **tremor signals** and **Slow Slip Events**.  
 - My goal is to advance **data-driven seismology** to improve our understanding of **fault slip and deformation processes**, and to move toward more reliable **earthquake and eruption forecasting**.  
 
 ---
