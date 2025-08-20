@@ -23,7 +23,7 @@
   *Denoising package for seismic and OBS records using harmonic–percussive separation.*  
 
 - [**ClusTremor**](https://github.com/ZahraZali/ClusTremor)  
-  *Clustering tremor signals with deep learning to study pre-eruptive activity.*  
+  *Clustering tremor signals with deep learning to study eruption phases and pre-eruptive activity.*  
 
 - [**TremorExtractor-EqDetector**](https://github.com/ZahraZali/TremorExtractor-EqDetector)  
   *Algorithms for volcanic tremor extraction and earthquake detection using MIR techniques.*  
