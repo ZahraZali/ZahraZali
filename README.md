@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Field-Geophysics-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20for%20Seismology-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Topics-Earthquakes%20|%20Volcanoes-orange?style=for-the-badge"/>
+</p>
+
 # 🎓 Postdoctoral Researcher in Geophysics  
 
 🧠 Machine Learning for Seismology | 🌋 Earthquake & Volcano Research  
@@ -6,8 +12,8 @@
 
 ## 🔬 About Me  
 - I develop **signal processing and machine learning algorithms** for time series data such as seismic and strainmeter records.  
-- My research focuses on **earthquake and volcanic preparatory processes**, with particular emphasis on **tremor signals** and **Slow Slip Events**.  
-- My goal is to advance **data-driven seismology** to improve our understanding of **fault slip and deformation processes**, and to move toward more reliable **earthquake and eruption forecasting**.  
+- My research focuses on **earthquake and volcanic preparatory processes**, with particular emphasis on **tremor signals** and **Slow Slip Events (SSEs)**.  
+- My goal is to advance **data-driven seismology** to improve our understanding of **fault slip and deformation processes**, and move toward more reliable **earthquake and eruption forecasting**.  
 
 ---
 
@@ -17,13 +23,13 @@
   *Pipeline for detecting and clustering Slow Slip Events from borehole strainmeter data.*  
 
 - [**AutoencoderZ**](https://github.com/ZahraZali/AutoencoderZ)  
-  *Advanced autoencoder for feature extraction and dimensionality reduction of seismic/strain data.*
+  *Advanced autoencoder for feature extraction and dimensionality reduction of seismic/strain data.*  
 
 - [**ClusTremor**](https://github.com/ZahraZali/ClusTremor) ⭐  
   *Deep learning–based clustering of tremor signals to study eruption phases and pre-eruptive activity.*  
 
 - [**NoiseCut**](https://github.com/ZahraZali/NoiseCut)  
-  *Denoising package for seismic and OBS records using harmonic–percussive separation.*   
+  *Denoising package for seismic and OBS records using harmonic–percussive separation.*  
 
 - [**TremorExtractor-EqDetector**](https://github.com/ZahraZali/TremorExtractor-EqDetector)  
   *Algorithms for volcanic tremor extraction and earthquake detection using MIR techniques.*  
