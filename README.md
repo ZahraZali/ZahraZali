@@ -30,26 +30,6 @@
 
 ---
 
-## 📄 Selected Publications  
-
-- **Zali, Z.**, Martínez-Garzón, P., Kwiatek, G., Núñez-Jara, S., Beroza, G., Cotton, F., Bohnhoff, M. (2025).  
-  *Low-Frequency Tremor-Like Episodes Before the 2023 Türkiye Earthquake Linked to Cement Quarrying.*  
-  *Scientific Reports*. [https://doi.org/10.1038/s41598-025-88381-x](https://doi.org/10.1038/s41598-025-88381-x)  
-
-- **Zali, Z.**, Mousavi, S.M., Ohrnberger, M., et al. (2024).  
-  *Tremor clustering reveals pre-eruptive signals and evolution of the 2021 Geldingadalir eruption of the Fagradalsfjall Fires, Iceland.*  
-  *Communications Earth & Environment*. [https://doi.org/10.1038/s43247-023-01166-w](https://doi.org/10.1038/s43247-023-01166-w)  
-
-- **Zali, Z.**, Rein, T., Krüger, F., Ohrnberger, M., & Scherbaum, F. (2023).  
-  *OBS noise reduction from horizontal and vertical components using harmonic–percussive separation algorithms.*  
-  *Solid Earth*. [https://doi.org/10.5194/se-14-181-2023](https://doi.org/10.5194/se-14-181-2023)  
-
-- **Zali, Z.**, Ohrnberger, M., Scherbaum, F., Cotton, F., & Eibl, E. P. (2021).  
-  *Volcanic tremor extraction and earthquake detection using MIR algorithms.*  
-  *Seismological Research Letters*. [https://doi.org/10.1785/0220210016](https://doi.org/10.1785/0220210016)  
-
----
-
 ## 📬 Contact  
 
 - 📧 Email: **zali@gfz.de**  
